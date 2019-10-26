@@ -85,7 +85,7 @@ You can customize the sort by using the following format:
 | Argument  | Possible Values                                        | Default |
 |-----------|--------------------------------------------------------|---------|
 | subreddit | A subreddit or {seasonal}                              | *None*  |
-| sort      | contraversial, gilded, hot, new, promoted, rising, top | top     |
+| sort      | controversial, gilded, hot, new, promoted, rising, top | top     |
 | limit     | An integer                                             | 25      |
 | timeframe | all, day, hour, month, week, year                      | month   |
 
